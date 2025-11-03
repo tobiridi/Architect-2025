@@ -1,0 +1,15 @@
+C:\Users\t.jadoulle\Desktop\Architect-2025\reminder\C#_reminder\bin\Debug\net8.0\C#_reminder.exe
+C:\Users\t.jadoulle\Desktop\Architect-2025\reminder\C#_reminder\bin\Debug\net8.0\C#_reminder.deps.json
+C:\Users\t.jadoulle\Desktop\Architect-2025\reminder\C#_reminder\bin\Debug\net8.0\C#_reminder.runtimeconfig.json
+C:\Users\t.jadoulle\Desktop\Architect-2025\reminder\C#_reminder\bin\Debug\net8.0\C#_reminder.dll
+C:\Users\t.jadoulle\Desktop\Architect-2025\reminder\C#_reminder\bin\Debug\net8.0\C#_reminder.pdb
+C:\Users\t.jadoulle\Desktop\Architect-2025\reminder\C#_reminder\obj\Debug\net8.0\C#_reminder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\t.jadoulle\Desktop\Architect-2025\reminder\C#_reminder\obj\Debug\net8.0\C#_reminder.AssemblyInfoInputs.cache
+C:\Users\t.jadoulle\Desktop\Architect-2025\reminder\C#_reminder\obj\Debug\net8.0\C#_reminder.AssemblyInfo.cs
+C:\Users\t.jadoulle\Desktop\Architect-2025\reminder\C#_reminder\obj\Debug\net8.0\C#_reminder.csproj.CoreCompileInputs.cache
+C:\Users\t.jadoulle\Desktop\Architect-2025\reminder\C#_reminder\obj\Debug\net8.0\C#_reminder.sourcelink.json
+C:\Users\t.jadoulle\Desktop\Architect-2025\reminder\C#_reminder\obj\Debug\net8.0\C#_reminder.dll
+C:\Users\t.jadoulle\Desktop\Architect-2025\reminder\C#_reminder\obj\Debug\net8.0\refint\C#_reminder.dll
+C:\Users\t.jadoulle\Desktop\Architect-2025\reminder\C#_reminder\obj\Debug\net8.0\C#_reminder.pdb
+C:\Users\t.jadoulle\Desktop\Architect-2025\reminder\C#_reminder\obj\Debug\net8.0\C#_reminder.genruntimeconfig.cache
+C:\Users\t.jadoulle\Desktop\Architect-2025\reminder\C#_reminder\obj\Debug\net8.0\ref\C#_reminder.dll
