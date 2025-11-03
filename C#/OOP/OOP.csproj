@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+<!-- Ajout de la référence vers la bibliothèque de classe que l'on a créer -->
+  <ItemGroup>
+    <ProjectReference Include="..\Libraries\Libraries.csproj" />
+  </ItemGroup>
+
+</Project>
