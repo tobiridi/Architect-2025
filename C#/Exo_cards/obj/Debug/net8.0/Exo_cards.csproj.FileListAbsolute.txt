@@ -1,0 +1,15 @@
+C:\Users\t.jadoulle\Desktop\Architect-2025\C#\Exo_cards\bin\Debug\net8.0\Exo_cards.exe
+C:\Users\t.jadoulle\Desktop\Architect-2025\C#\Exo_cards\bin\Debug\net8.0\Exo_cards.deps.json
+C:\Users\t.jadoulle\Desktop\Architect-2025\C#\Exo_cards\bin\Debug\net8.0\Exo_cards.runtimeconfig.json
+C:\Users\t.jadoulle\Desktop\Architect-2025\C#\Exo_cards\bin\Debug\net8.0\Exo_cards.dll
+C:\Users\t.jadoulle\Desktop\Architect-2025\C#\Exo_cards\bin\Debug\net8.0\Exo_cards.pdb
+C:\Users\t.jadoulle\Desktop\Architect-2025\C#\Exo_cards\obj\Debug\net8.0\Exo_cards.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\t.jadoulle\Desktop\Architect-2025\C#\Exo_cards\obj\Debug\net8.0\Exo_cards.AssemblyInfoInputs.cache
+C:\Users\t.jadoulle\Desktop\Architect-2025\C#\Exo_cards\obj\Debug\net8.0\Exo_cards.AssemblyInfo.cs
+C:\Users\t.jadoulle\Desktop\Architect-2025\C#\Exo_cards\obj\Debug\net8.0\Exo_cards.csproj.CoreCompileInputs.cache
+C:\Users\t.jadoulle\Desktop\Architect-2025\C#\Exo_cards\obj\Debug\net8.0\Exo_cards.sourcelink.json
+C:\Users\t.jadoulle\Desktop\Architect-2025\C#\Exo_cards\obj\Debug\net8.0\Exo_cards.dll
+C:\Users\t.jadoulle\Desktop\Architect-2025\C#\Exo_cards\obj\Debug\net8.0\refint\Exo_cards.dll
+C:\Users\t.jadoulle\Desktop\Architect-2025\C#\Exo_cards\obj\Debug\net8.0\Exo_cards.pdb
+C:\Users\t.jadoulle\Desktop\Architect-2025\C#\Exo_cards\obj\Debug\net8.0\Exo_cards.genruntimeconfig.cache
+C:\Users\t.jadoulle\Desktop\Architect-2025\C#\Exo_cards\obj\Debug\net8.0\ref\Exo_cards.dll
