@@ -1,0 +1,19 @@
+﻿@model DestinationCreerFormViewModel
+@{
+    ViewData["Title"] = "Ajouter destination";
+}
+
+<h1>Ajouter une destination</h1>
+<form asp-controller="Destination" asp-action="Creer" method="post">
+    <label asp-for="Pays"></label>
+    <input asp-for="Pays" placeholder="France" />
+
+    <label asp-for="Nom"></label>
+    <input asp-for="Nom" placeholder="Paris" />
+
+    <label asp-for="Description"></label>
+    <textarea asp-for="Description" placeholder="Ville lumière"></textarea>
+
+    <div asp-validation-summary="All"></div>
+    <button type="submit">Ajouter</button>
+</form>

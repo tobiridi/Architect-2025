@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Exo_cards/1.0.0": {
+        "runtime": {
+          "Exo_cards.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exo_cards/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\t.jadoulle\Desktop\Architect-2025\C#\Delegue_event_generic\bin\Debug\net8.0\Delegue_event_generic.exe
+C:\Users\t.jadoulle\Desktop\Architect-2025\C#\Delegue_event_generic\bin\Debug\net8.0\Delegue_event_generic.deps.json
+C:\Users\t.jadoulle\Desktop\Architect-2025\C#\Delegue_event_generic\bin\Debug\net8.0\Delegue_event_generic.runtimeconfig.json
+C:\Users\t.jadoulle\Desktop\Architect-2025\C#\Delegue_event_generic\bin\Debug\net8.0\Delegue_event_generic.dll
+C:\Users\t.jadoulle\Desktop\Architect-2025\C#\Delegue_event_generic\bin\Debug\net8.0\Delegue_event_generic.pdb
+C:\Users\t.jadoulle\Desktop\Architect-2025\C#\Delegue_event_generic\obj\Debug\net8.0\Delegue_event_generic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\t.jadoulle\Desktop\Architect-2025\C#\Delegue_event_generic\obj\Debug\net8.0\Delegue_event_generic.AssemblyInfoInputs.cache
+C:\Users\t.jadoulle\Desktop\Architect-2025\C#\Delegue_event_generic\obj\Debug\net8.0\Delegue_event_generic.AssemblyInfo.cs
+C:\Users\t.jadoulle\Desktop\Architect-2025\C#\Delegue_event_generic\obj\Debug\net8.0\Delegue_event_generic.csproj.CoreCompileInputs.cache
+C:\Users\t.jadoulle\Desktop\Architect-2025\C#\Delegue_event_generic\obj\Debug\net8.0\Delegue_event_generic.sourcelink.json
+C:\Users\t.jadoulle\Desktop\Architect-2025\C#\Delegue_event_generic\obj\Debug\net8.0\Delegue_event_generic.dll
+C:\Users\t.jadoulle\Desktop\Architect-2025\C#\Delegue_event_generic\obj\Debug\net8.0\refint\Delegue_event_generic.dll
+C:\Users\t.jadoulle\Desktop\Architect-2025\C#\Delegue_event_generic\obj\Debug\net8.0\Delegue_event_generic.pdb
+C:\Users\t.jadoulle\Desktop\Architect-2025\C#\Delegue_event_generic\obj\Debug\net8.0\Delegue_event_generic.genruntimeconfig.cache
+C:\Users\t.jadoulle\Desktop\Architect-2025\C#\Delegue_event_generic\obj\Debug\net8.0\ref\Delegue_event_generic.dll

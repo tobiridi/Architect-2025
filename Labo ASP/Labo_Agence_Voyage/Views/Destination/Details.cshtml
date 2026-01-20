@@ -1,0 +1,27 @@
+﻿@model DestinationViewModel
+@* @inject AgenceVoyageApiClient ApiClient *@
+
+@{
+    ViewData["Title"] = "Destination " + Model.Nom + " " + Model.Pays;
+    // TODO : requete api recup les activites d'une destination
+    // ApiClient;
+    IEnumerable<ActiviterViewModel> Activites = [];
+}
+
+<h1>@Model.Nom - @Model.Pays</h1>
+<p>@(Model.Description ?? "Aucune description")</p>
+
+<h3>Activités disponibles</h3>
+@if(Activites.Count() == 0)
+{
+    <p>Aucune activité n'est disponible !</p>
+}
+else
+{
+    <ul>
+    @foreach (ActiviterViewModel activite in Activites)
+    {
+        <li>@activite.Nom - @activite.Prix EUR</li>
+    }
+    </ul>
+}

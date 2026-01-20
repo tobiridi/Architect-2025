@@ -1,0 +1,15 @@
+﻿@model IEnumerable<DestinationViewModel>
+@{
+    ViewData["Title"] = "Destination";
+}
+
+<h1>Liste de toutes les destinations</h1>
+@foreach (DestinationViewModel dest in Model)
+{
+    <div class="card">
+        <h3>@dest.Nom - @dest.Pays</h3> 
+        <p>@(dest.Description ?? "Aucune description")</p>
+        <a asp-controller="Destination" asp-action="Details" asp-route-id="@dest.Id">Voir détails</a>
+    </div>
+}
+
