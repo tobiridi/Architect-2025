@@ -1,0 +1,37 @@
+﻿@model ActiviterCreerFromViewModel
+@* @inject AgenceVoyageApiClient ApiClient *@
+@{
+    ViewData["Title"] = "Ajouter activité";
+    // TODO : requete api recup les destinations
+    // ApiClient;
+    IEnumerable<DestinationViewModel> destinations = [
+        new DestinationViewModel() {Id = Guid.NewGuid(), Nom = "Paris", Pays = "France"},
+        new DestinationViewModel() {Id = Guid.NewGuid(), Nom = "Paris2", Pays = "France"},
+        new DestinationViewModel() {Id = Guid.NewGuid(), Nom = "Paris3", Pays = "France"}
+    ];
+
+    List<SelectListItem> selectLists = new List<SelectListItem>(destinations.Count());
+    foreach (DestinationViewModel dest in destinations)
+    {
+        string text = dest.Nom + " - " + dest.Pays;
+        selectLists.Add(new SelectListItem(text, dest.Id.ToString()));
+    }
+}
+
+<h1>Ajouter une activité</h1>
+<form asp-controller="Activiter" asp-action="Creer" method="post">
+    <label asp-for="Nom"></label>
+    <input asp-for="Nom" placeholder="Visite du Louvre" />
+
+    <label asp-for="Description"></label>
+    <textarea asp-for="Description" placeholder="Découverte des œuvres d'art"></textarea>
+
+    <label asp-for="Prix"></label>
+    <input asp-for="Prix" type="number" step="0.01" placeholder="50.00" />
+
+    <label asp-for="DestinationId"></label>
+    <select asp-for="DestinationId" asp-items="selectLists"></select>
+
+    <div asp-validation-summary="All"></div>
+    <button type="submit">Ajouter</button>
+</form>

@@ -1,0 +1,6 @@
+@Labo_Agence_Voyage.Web_API_HostAddress = http://localhost:5133
+
+GET {{Labo_Agence_Voyage.Web_API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

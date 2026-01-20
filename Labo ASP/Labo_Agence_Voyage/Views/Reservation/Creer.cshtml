@@ -1,0 +1,30 @@
+﻿
+@{
+    ViewData["Title"] = "Faire réservation";
+}
+
+<h1>Faire une réservation</h1>
+
+@* TODO : create reservation form *@
+<form>
+    <label>Nom du client</label>
+    <input type="text" placeholder="Bill Cypher" />
+
+    <label>Date de réservation</label>
+    <input type="date" />
+
+    <label>ID de la destination</label>
+    <input type="number" placeholder="1" />
+
+    <h3>Activités disponibles</h3>
+    <ul>
+        <li>1. Visite du Louvre - 50.00 EUR</li>
+        <li>2. Tour Eiffel - 30.00 EUR</li>
+        <li>3. Croisière sur la Seine - 40.00 EUR</li>
+    </ul>
+
+    <label>ID de l'activité (0 pour terminer)</label>
+    <input type="number" placeholder="1" />
+
+    <button type="submit">Réserver</button>
+</form>
